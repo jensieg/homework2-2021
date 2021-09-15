@@ -20,8 +20,8 @@ h1{
 h2{
     font-size: 32px;
     text-shadow: #808080;
-    position: 4px 4px;
-    filter: blur (2px);
+    offset: 4px;
+    filter: blur(2px);
 }
 
 p{
