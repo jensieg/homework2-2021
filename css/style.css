@@ -49,8 +49,15 @@ div {
 #yellow {
     background-color: #FFFF00;
     text-align: right;
-    /* 6 point c */
-    /* 6 point d */
+}
+
+#yellow h2 {
+    color: #000000;
+    text-shadow: #c7e2c7;
+}
+
+#yellow p {
+    color: #000000;
 }
 
 #green {
@@ -58,8 +65,7 @@ div {
     text-align: left;
 }
 
-/* paragraphs within the footer */
-{
+#footer {
     text-align: center;
     padding-bottom: 10px;
     padding-right: 10px;
