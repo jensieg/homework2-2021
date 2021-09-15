@@ -35,3 +35,18 @@ div {
     min-height: 150px;
     padding: 25px;
 }
+
+#red { 
+    color: #FF0000;
+    text-align: right;
+}
+
+#blue {
+    color: #0000FF;
+    text-align: left;
+}
+
+#yellow {
+    background-color: #FFFF00;
+    text-align: right;
+}
