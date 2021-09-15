@@ -37,12 +37,12 @@ div {
 }
 
 #red { 
-    color: #FF0000;
+    background-color: #FF0000;
     text-align: right;
 }
 
 #blue {
-    color: #0000FF;
+    background-color: #0000FF;
     text-align: left;
 }
 
