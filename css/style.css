@@ -8,7 +8,7 @@ body{
 
 h1 {
     size: 64px;
-    position: center;
+    text-align: center;
     padding: 10px;
 }
 
